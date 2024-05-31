@@ -20,3 +20,5 @@ Considerando as 3 bases de dados, a análise deve responder as seguintes pergunt
 4. Qual o  total de contratos que cada área da empresa já fechou?
 5. Calcule o total de funcionários por área
 6. Qual o ticket médio mensal  dos contratos?
+
+*Esse repósitorio é apenas para utilização educativa*
